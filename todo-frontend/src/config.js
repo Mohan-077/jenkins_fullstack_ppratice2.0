@@ -1,2 +1,2 @@
-const API_URL = "http://localhost:2030/todoapi";
+const API_URL = "http://localhost:2030/springboottodoapi";
 export default API_URL;
